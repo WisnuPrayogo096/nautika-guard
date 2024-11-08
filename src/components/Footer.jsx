@@ -1,4 +1,3 @@
-// src/components/Footer.js
 import React from "react";
 
 const Footer = () => {
@@ -7,7 +6,8 @@ const Footer = () => {
       <div className="flex text-gray-500 items-center space-x-2">
         <span className="text-xl">&copy;</span>
         <p>
-          Copyright <span>{new Date().getFullYear()}</span>. All rights reserved.
+          Copyright <span>{new Date().getFullYear()}</span>. All rights
+          reserved.
         </p>
       </div>
     </footer>

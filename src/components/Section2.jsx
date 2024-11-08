@@ -1,4 +1,3 @@
-// src/components/Section.js
 import React from "react";
 import event1 from "../assets/event-1.png";
 import event2 from "../assets/event-2.png";
